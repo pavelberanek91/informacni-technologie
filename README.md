@@ -7,9 +7,7 @@ vybavit studenty základními nástroji pro týmovou spolupráci a tvorbu a prez
 
 |lekce|datum|obsah|video|
 |---|---|---|---|
-|01|xx.xx.xx|Bezpečné používání informačních technologií; bezpečné chování na internetu s důrazem na sociální sítě;
-zálohování, redundance a zabezpečení dat pro zajištění jejich důvěrnosti, integrity a dostupnosti; ochrana před
-nežádoucími softwary a útočníky|xxx|
+|01|xx.xx.xx|Bezpečné používání informačních technologií; bezpečné chování na internetu s důrazem na sociální sítě; zálohování, redundance a zabezpečení dat pro zajištění jejich důvěrnosti, integrity a dostupnosti; ochrana před nežádoucími softwary a útočníky|xxx|
 |02|xx.xx.xx|Principy fungování a správné používání počítačových sítí a koncových prvků|xxx|
 |03|xx.xx.xx|Efektivní využití operačních systémů s důrazem na systém MS Windows|xxx|
 |04|xx.xx.xx|Sdílení a oběh dokumentů, systémy pro správu a verzování dokumentů, MS Sharepoint, GSuite|xxx|
