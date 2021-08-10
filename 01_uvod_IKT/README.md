@@ -1,4 +1,4 @@
-#01. Úvod do IKT
+# 01. Úvod do IKT
 
 V této lekci se dozvíte vše potřebné pro úspěšné získání zápočtu z předmětu a seznámíte se s oblastí IKT (informační
 a komunikační technologie).
