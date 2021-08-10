@@ -7,19 +7,19 @@ vybavit studenty základními nástroji pro týmovou spolupráci a tvorbu a prez
 
 |lekce|datum|obsah|video|
 |---|---|---|---|
-|01|xx.xx.xx|Bezpečné používání informačních technologií; bezpečné chování na internetu s důrazem na sociální sítě; zálohování, redundance a zabezpečení dat pro zajištění jejich důvěrnosti, integrity a dostupnosti; ochrana před nežádoucími softwary a útočníky|xxx|
-|02|xx.xx.xx|Principy fungování a správné používání počítačových sítí a koncových prvků|xxx|
-|03|xx.xx.xx|Efektivní využití operačních systémů s důrazem na systém MS Windows|xxx|
-|04|xx.xx.xx|Sdílení a oběh dokumentů, systémy pro správu a verzování dokumentů, MS Sharepoint, GSuite|xxx|
-|05|xx.xx.xx|Správa dokumentů a správa podnikového obsahu, týmová práce; prostředky pro týmovou práci a time management|xxx|
-|06|xx.xx.xx|Lokální a cloudové služby počítačové sítě; webová uložiště|xxx|
-|07|xx.xx.xx|Pokročilé zpracování textového dokumentu; tvorba obsáhlých dokumentů; revize, odkazy|xxx|
-|08|xx.xx.xx|Efektivní práce s tabulkovým procesorem|xxx|
-|09|xx.xx.xx|Zpracování dat, kontigenční tabulky, podmíněné formátování, grafická reprezentace dat|xxx|
-|10|xx.xx.xx|Další nástroje pro tvorbu profesionálních grafů (např. GNUPlot, Origin, SigmaPlot)|xxx|
-|11|xx.xx.xx|Prezentace výstupů; pokročilá práce s programem pro tvorbu prezentací|xxx|
-|12|xx.xx.xx|Využití moderních nástrojů pro prezentaci (např.: Skype, YouTube, využití tabletu nebo chytrého telefonu)|xxx|
-|13|xx.xx.xx|Úpravy digitálních obrázků (rastrová - GIMP2 i vektorová grafika - Inkscape)|xxx|
+|01|xx.xx.xx|Základní informace ke studiu předmětu, podmínky, pravidla. Úvod do problematiky předmětu.|xxx|
+|02|xx.xx.xx|Hardwarové kompetence: jednotlivé součásti počítače a práce s nimi, práce s periferiemi počítače, bezpečné používání počítače, počítačové sítě.|xxx|
+|03|xx.xx.xx|Softwarové kompetence (operační systém): představení aktuálně používané verze operačního systému MS Windows, orientace v systému, práce se složkami, správa systému na úrovni uživatele, základní programy, komprimace dat.|xxx|
+|04|xx.xx.xx|Softwarové kompetence (operační systém): operační systém Linux, přehled základních distribucí, orientace v systému, live distribuce, práce v konzoli, stabilita, alternativy k programům určeným pro OS Windows (LibreOffice a jiné)|xxx|
+|05|xx.xx.xx|Softwarové kompetence (MS Word): základní formátování písma a odstavce, aplikace odrážek, číslování v dokumentu, tvorba vlastních stylů, tvorba základních seznamů (obsah, seznam obrázků, vlastní seznam), vkládání obrázků, tabulek a jiných objektů, záhlaví, zápatí, použití oddílů.|xxx|
+|06|xx.xx.xx|Softwarové kompetence (MS Word): tvorba uceleného dokumentu typu seminární, bakalářské práce a dopisu, sdílení dokumentu a hromadná korespondence.|xxx|
+|07|xx.xx.xx|Softwarové kompetence (MS Excel): základní nastavení a úprava dokumentu, formátování dat v buňce, tvorba a formátování jednoduchých tabulek, použití základních funkcí.|xxx|
+|08|xx.xx.xx|Softwarové kompetence (MS Excel): tvorba a formátování grafů, efektivní práce s daty, podmíněné formátování, tvorba grafů pomocí programu Gnuplot.|xxx|
+|09|xx.xx.xx|Softwarové kompetence (MS Excel): ucelené zpracování dat, statistické zpracování dat, tvorba schémat.|xxx|
+|10|xx.xx.xx|Softwarové kompetence (MS Powerpoint): zásady tvory odborné prezentace, způsoby prezentace, nastavení vzhledu snímků, formátování textu a použití objektů.|xxx|
+|11|xx.xx.xx|Softwarové kompetence (MS Powerpoint): tvorba odborné prezentace a nejčastější chyby.|xxx|
+|12|xx.xx.xx|Ostatní IT kompetence: základní přehled, bezpečné používání veřejné počítačové sítě, netiketa, novinky v oblasti IT (hardware, software, aplikace).|xxx|
+|13|xx.xx.xx|Zápočtový test.|xxx|
 
 ### Rozšiřující lekce
 Tato tabulka obsahuje odkazy na další užitečné lekce z oblasti IKT.
