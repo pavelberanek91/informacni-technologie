@@ -16,7 +16,7 @@ vybavit studenty základními nástroji pro týmovou spolupráci a tvorbu a prez
 |07|xx.xx.xx|Softwarové kompetence (MS Excel): základní nastavení a úprava dokumentu, formátování dat v buňce, tvorba a formátování jednoduchých tabulek, použití základních funkcí.|xxx|
 |08|xx.xx.xx|Softwarové kompetence (MS Excel): tvorba a formátování grafů, efektivní práce s daty, podmíněné formátování, tvorba grafů pomocí programu Gnuplot.|xxx|
 |09|xx.xx.xx|Softwarové kompetence (MS Excel): ucelené zpracování dat, statistické zpracování dat, tvorba schémat.|xxx|
-|10|xx.xx.xx|Softwarové kompetence (MS Powerpoint): zásady tvory odborné prezentace, způsoby prezentace, nastavení vzhledu snímků, formátování textu a použití objektů.|xxx|
+|10|xx.xx.xx|Softwarové kompetence (MS Powerpoint): zásady tvorby odborné prezentace, způsoby prezentace, nastavení vzhledu snímků, formátování textu a použití objektů.|xxx|
 |11|xx.xx.xx|Softwarové kompetence (MS Powerpoint): tvorba odborné prezentace a nejčastější chyby.|xxx|
 |12|xx.xx.xx|Ostatní IT kompetence: základní přehled, bezpečné používání veřejné počítačové sítě, netiketa, novinky v oblasti IT (hardware, software, aplikace).|xxx|
 |13|xx.xx.xx|Zápočtový test.|xxx|
