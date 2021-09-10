@@ -32,7 +32,7 @@ Ukázka zápočtového testu: ODKAZ
 07. Textový editor:
 08. Tabulkové procesory:
 09. Zpracování dat:
-10. Vizualizace dat: (https://www.sci.muni.cz/~mikulik/gnuplot/gp.html)[GNUPLOT tutorial]
+10. Vizualizace dat: [https://www.sci.muni.cz/~mikulik/gnuplot/gp.html](GNUPLOT tutorial)
 11. Prezentační software:
 12. Prezentační nástroje:
 13. Počítačová grafika: 
