@@ -49,7 +49,7 @@ Na sociálních sítích se setkáme s různými formami nebezpeční a specific
 * Sexting - zasílání zpráv, fotografií a videí se sexuálním obsahem, které často končí zveřejněné na sociálních sítích veřejně (po rozchodu nebo při chlubení se kamarádům), lze ho posuzovat jako tvorbu a šíření dětské pornografie
 * Phishing - zprávy (na zdi, přímé zprávy) za účelem získání citlivých údajů k přístupu do IS (např.: internetové bankovnictví)
 
-### 1.2 Zálohování, redundance a zabezpečení dat pro zajištění důvěryhodnosti, integrity a dostupnosti
+### 1.3 Zálohování, redundance a zabezpečení dat pro zajištění důvěryhodnosti, integrity a dostupnosti
 
 #### Důvěryhodnost, integrita a dostupnost
 Podniková data je nutné zabezpečit ve 3 dimenzích - důvěryhodnost, integrita a dostupnost (CIA triad - confidentiality, integrity, availability).
@@ -104,7 +104,7 @@ Zabezpečení integrity dat je realizováno 4 mechanismy:
 * samoopravné kódy - umožňují rekonstrukci poškozených dat (ne přílíš) na původní data (např.: Hammingův kód, Reedovy-Solomonovy kódy)
 * žurnálování - data jsou zapisována atomaticky, pokud dojde k narušení transakce, tak se provede roll-back na předchozí konzistentní stav
 
-### 1.3 Ochrana před nežádoucími softwary a útočníky
+### 1.4 Ochrana před nežádoucími softwary a útočníky
 Ochrana před útočníky byla zmíněna již v předchozích kapitolách. V této kapitole se pouze zmíním o určitých technických termínech, souvisejících s útoky. Pokud byste chtěli však jednu větu jako take-home message ohledně ochrany před útočníky na internetu tak je to následující věta: "Neklikej na nic o čem si nejsi jist, že víš, co to je".
 
 #### Škodlivý software a techniky útoku (Malicious software = Malware)
