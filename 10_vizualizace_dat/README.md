@@ -143,7 +143,7 @@ Skripty mohou přejímat argumenty z příkazové řádky. Do příkazové řád
 ```
 gnuplot -e "vystup='png'" -p skript.p
 ```
-nebo dodání argumentu příkazové řádky s příznakem -c (ve skriptu bude mít první z nich název ARG0, druhá ARG1, atd.). Pro rovnost řetězců se musí použít eq, pro numerické hodnota se využívá relace =.
+nebo dodání argumentu příkazové řádky s příznakem -c (ve skriptu bude mít první z nich název ARG0, druhá ARG1, atd.). Pro rovnost řetězců se musí použít eq, pro numerické hodnota se využívá relace =. Pozor prvním argument programu je proměnná ARG0, což vždy představuje název spouštěného skriptu.
 ```
 gnuplot -p -c skript.p png
 ```
