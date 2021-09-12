@@ -141,11 +141,6 @@ gnuplot -p skript.p
 
 Skripty mohou přejímat argumenty z příkazové řádky. Do příkazové řádky lze napsat název proměnné s hodnotou a pak ji uvnitř skriptu používat. Využití najdeme např. při rozhodování o typu terminálu. 
 ```
-
-```
-
-spuštění s dodanou proměnnou
-```
 gnuplot -e "vystup='png'" -p skript.p
 ```
 nebo dodání argumentu příkazové řádky s příznakem -c (ve skriptu bude mít první z nich název ARG0, druhá ARG1, atd.). Pro rovnost řetězců se musí použít eq, pro numerické hodnota se využívá relace =.
