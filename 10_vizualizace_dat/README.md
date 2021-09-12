@@ -207,9 +207,12 @@ Vykreslete soubor pocasi.dat tak, aby na ose y byly hodnoty teploty v procentech
 V oblasti přírodních věd jsou velice důležité skalání a vektorová pole. Dobrým příkladem ze střední školy je intenzita elektrického pole, která se modeluje pomocí vektorového pole, a potenciál elektrického pole, který se modeluje jako skalární pole. Reálným příkladem může být pole, tvořené soustavu polárních molekul nebo náboje kolem drátu elektrického vedení. Pokud je zdrojem skalárního pole jeden zdroj (například úder blesku), pak lze skalární pole popsat soustavou ekvipotenciálních kružnic.
 
 Váš úkol zní:
-1. Vizualizujte soubor "pole.dat" jako vektorové pole
-2. Použijte tabulkové operace a zobrazte tento soubor jako skalární pole, kde hodnota skaláru bude délka vektoru pole
-3. Ke skalárnímu poli vykreslete ještě kontury, představující potenciální ekviplochy 
+1. Spustťe program field_generator.py
+2. Vizualizujte soubor "vec.dat" jako vektorové pole (googlete a experimentujte)
+3. Vizualizujte soubor "scalar.dat" jako skalární pole (googlete a experimentujte, rada: pro začátek stačí vizualizovat jako obrázek s pixely)
+4. Zkuste vhodnou vizualizací zjistit, jaký je smysl skalárních hodnot ve vygenerovaném souboru
+
+Pokud budete potřebovat komplexní grafy, jako např.: vektorová mapa, kde jsou barvy vektorů odpovídají skalárním hodnotám pole a navíc jsou vektory ohraničené ekvipotenciálními plochy, tak GNUPlot tyto šikovné vizualizace zvládá. Velice kvalitní je i knihovna matplotlib pro programovací jazyk python.
 
 ### DÚ 10.4 Automatizovana tvorba GIFu
 Přiložený program sum.py vygeneruje sadu 50 fotografií náhodného šumu s názvy sum01.dat az sum50.dat. Napište skript typu .sh nebo .bat, který:
@@ -221,4 +224,4 @@ Přiložený program sum.py vygeneruje sadu 50 fotografií náhodného šumu s n
 Můžete využít konceptu roury a předpřipraveného gnuplot skriptu.
 
 ### DÚ 10.5 Aproximace ceny bitcoinu
-Přiložený soubor bitcoin.dat obsahuje časovou řadu s hodnotou ceny bitcoinu. Nalezněte aproximační funkci a její koeficienty, která vhodně proloží tuto časovou řadu. Vykreslete body řady s aproximační funkcí do jednoho grafu. 
+Přiložený soubor bitcoin_month.dat obsahuje časovou řadu s hodnotou ceny bitcoinu za jednotlivé měsíce v roce 2021. Soubor bitcoin_years.dat obsahuje časovou řadu s hodnotou ceny bitcoinu v jednotlivých letech. Nalezněte aproximační funkce a jejich koeficienty, která vhodně proloží tyto časovou řadu. Ověřte kvalitu aproximace vykreslením aproximační funkce s diskrétními daty do jednoho grafu. 
