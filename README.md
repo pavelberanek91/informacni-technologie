@@ -21,18 +21,3 @@ Ukázka zápočtového testu: ODKAZ
 |11|xx.xx.xx|Prezentace výstupů; pokročilá práce s programem pro tvorbu prezentací|xxx|
 |12|xx.xx.xx|Využití moderních nástrojů pro prezentaci (např.: Skype, YouTube, využití tabletu nebo chytrého telefonu)|xxx|
 |13|xx.xx.xx|Úpravy digitálních obrázků (rastrová - Gimp2 i vektorová grafika - Inkscape)|xxx|
-
-## Podpůrné materiály
-01. Bezpečnost: 
-02. Počítačové sítě:
-03. OS Windows: 
-04. Správa dokumentů:
-05. Týmová spolupráce:
-06. Síťové služby:
-07. Textový editor:
-08. Tabulkové procesory:
-09. Zpracování dat:
-10. Vizualizace dat: [GNUPlot tutorial](https://www.sci.muni.cz/~mikulik/gnuplot/gp.html)
-11. Prezentační software:
-12. Prezentační nástroje:
-13. Počítačová grafika: 
